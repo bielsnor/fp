@@ -4,10 +4,25 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+
+I am not an Epidimologist.  I am a Citizen Scientist.  I am a Data Nerd. I have extensive hands-on experience in a variety of technologies with a focus on enterprise data applications, high availability data systems, data security and signals intelligence, e-commerce systems, systems integration, advertising technology, digital media, data analysis, data mining, advanced machine learning, ensemble modeling, and more.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
 
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+
