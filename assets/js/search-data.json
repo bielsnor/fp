@@ -51,7 +51,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": "I am not an Epidimologist. I am a Citizen Scientist. I am a Data Nerd. I have extensive hands-on experience in a variety of technologies with a focus on enterprise data applications, high availability data systems, data security and signals intelligence, e-commerce systems, systems integration, advertising technology, digital media, data analysis, data mining, advanced machine learning, ensemble modeling, and more. . This website is powered by fastpages [^1]. .",
           "url": "https://bielsnor.github.io/fp/about/",
           "relUrl": "/about/",
           "date": ""
